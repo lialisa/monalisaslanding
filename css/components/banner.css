@@ -1,0 +1,26 @@
+.banner {
+	background-image: linear-gradient(-184deg, rgba(0,0,0, 1.7), rgba(0,0,0, -4.8)), url(../../images/bgworldmap.jpg);
+	background-color: #C6E2FF;
+	background-size: cover;
+	color: #f9e9db;
+	padding: 260px 0px;
+	margin: 0 auto;
+	background-position: center;
+}
+
+.banner h1 {
+	font-size: 45px;
+	text-align: center;
+	color: #f9e9db;
+}
+
+.banner h2{
+	font-size: 30px; 
+	font-weight: lighter;
+	opacity: 1;
+	margin-bottom: 40px;
+	text-align: center;
+	color: #f9e9db;
+}
+
+
